@@ -36,3 +36,5 @@ Hi there, I'm **Jessica Tavares**, a **Software QA Engineer** from Brazil.
 
 Go to [blog page](blog.md)
 
+[Check my blog](blog.md)
+
