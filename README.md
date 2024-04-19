@@ -1,6 +1,6 @@
-<h3 title="hehehe"> Welcome!</h3>
+<h3> Welcome!</h3>
 
-Hi there, I'm **Jessica Tavares**, a **Software QA Engineer** from Brazil.
+Hi there, my name is **Jessica Tavares**, I'm a **Software QA Engineer** from Brazil.
 
   <img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR0NGlmbXJuYmg5cnduNWZ4c2l5bGljNDZzenEwdGZtejZhdGtqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
@@ -34,7 +34,7 @@ Hi there, I'm **Jessica Tavares**, a **Software QA Engineer** from Brazil.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-Go to [blog page](blog.md)
+<h3>Check out my articles</h3>
 
-[Check my blog](blog.md)
+[gRPC - Overview and Testing Strategy](grpc.md)
 
