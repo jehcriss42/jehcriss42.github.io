@@ -17,7 +17,7 @@ Hi there, my name is **Jessica Tavares**, I'm a **Software QA Engineer** from Br
 - 💬 Ask me about anything, I love to answer!
   
 <a href="https://www.linkedin.com/in/tavares-j/">
-  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Jessica's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/jehcriss42">
   <img align="left" alt="Jessica's github" width="24px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" />
